@@ -1,8 +1,13 @@
-﻿.venv/
+# Entorno virtual y secretos (solo se sube .env.example)
+.venv/
 venv/
-__pycache__/
-*.py[cod]
 .env
-.idea/
-.vscode/
+
+# Caché de Python
+__pycache__/
+*.pyc
+
+# Archivos del sistema y del editor
 .DS_Store
+Thumbs.db
+.vscode/
