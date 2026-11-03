@@ -2,7 +2,6 @@
 
 Sistema de detección de correos electrónicos SPAM y phishing mediante Machine Learning y análisis sintáctico-estructural.
 
-> Proyecto académico. Los resultados NO son una garantía de seguridad.
 
 ## Objetivo
 
